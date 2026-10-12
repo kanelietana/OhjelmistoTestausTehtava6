@@ -1,0 +1,25 @@
+{
+  "name": "ohjelmistotestaustehtava6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanelietana/OhjelmistoTestausTehtava6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/kanelietana/OhjelmistoTestausTehtava6/issues"
+  },
+  "homepage": "https://github.com/kanelietana/OhjelmistoTestausTehtava6#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
